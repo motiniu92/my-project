@@ -3,23 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/PatientView.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/PatientDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/dao/DoctorFeeSummaryDao.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/DoctorFeeSummaryDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/EmployeeTypeDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/pojo/Employee.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/TreatmentDetailsDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/MedicalDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/EmployeeDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/MainPage.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/daoImpl/ReportSummaryDaoImpl.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/ReportSummaryView.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/dao/EmployeeDao.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/EmployeeTypeView.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/EmployeeView.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/DoctoFeeSumaryView.java</file>
-            <file>file:/D:/MedicalServiceCenter/src/com/coderbd/view/LoginInf.java</file>
+            <file>file:/F:/github/my-project/Project%20Module%20Six%20Final/MedicalServiceCenter/src/com/coderbd/conn/CustomDBConnection.java</file>
         </group>
     </open-files>
 </project-private>
